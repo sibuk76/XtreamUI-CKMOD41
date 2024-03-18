@@ -1,4 +1,4 @@
-XtreamUI CK41 MOD Reborn
+XtreamUI CK41 MOD 
 
 How to install
 
