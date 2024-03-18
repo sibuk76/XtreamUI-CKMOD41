@@ -175,7 +175,7 @@ def modifyNginx():
         rFile.close()
 
 if __name__ == "__main__":
-    printc("CK41 MOD - Reborn by DRMStuff.com", col.OKGREEN, 2)
+    printc("XtreamUI CK41 MOD", col.OKGREEN, 2)
     rType = raw_input("  Installation Type [MAIN, LB]: ")
     print " "
     if rType.upper() in ["MAIN", "LB"]:
@@ -204,7 +204,7 @@ if __name__ == "__main__":
                 configure()
                 if rType.upper() == "MAIN": modifyNginx()
                 start()
-                printc("Xtream UI 22 CK41 MOD Reborn", col.OKGREEN, 2)
+                printc("XtreamUI CK41 MOD", col.OKGREEN, 2)
                 printc("Admin UI: http://%s:25500" % getIP())
                 if rType.upper() == "MAIN":
                     printc("Please store your MySQL password!")
