@@ -11,6 +11,8 @@ rm install.py;
 
 wget https://raw.githubusercontent.com/sibuk76/XtreamUI-CKMOD41/main/install.py;
 
+chmod +x ./install.py
+
 sudo python install.py
 
 If you want a NEW installation, Choose MAIN.
