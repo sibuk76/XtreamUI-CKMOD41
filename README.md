@@ -15,4 +15,4 @@ chmod +x ./install.py
 
 sudo python install.py
 
-If you want a NEW installation, Choose MAIN.
+If you want a new installation, type MAIN.
