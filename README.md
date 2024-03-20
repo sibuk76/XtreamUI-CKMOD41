@@ -16,3 +16,9 @@ chmod +x ./install.py
 sudo python install.py
 
 If you want a new installation, type MAIN.
+
+Login yourip:25500 
+
+user: admin 
+
+pass: admin
